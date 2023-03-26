@@ -1,4 +1,4 @@
-# magic-number-gen
+# Magic number generator
 
 Magic number is a number whose each digit occurs exactly the same times as its value.
 Example: 122 is a magic number because 1 appears once and 2 twice.
